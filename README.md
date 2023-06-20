@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm nofear195, a software engineer wiht a background in full-stack web development.
+I'm nofear195, a software engineer with a background in full-stack web development.
 
 ## About Me
 - 💼 Experienced frontend engineer delivering no-code UI websites for deep learning training projects at a previous company.
