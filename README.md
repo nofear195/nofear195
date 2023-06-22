@@ -22,7 +22,7 @@ I'm nofear195, a software engineer with a background in full-stack web developme
 Here are a few of my notable projects:
 
 - [vue-image-annotator](https://github.com/nofear195/vue-image-annotator): Developed a customizable Vue.js component for annotating images in a web application.
-- [vue-image-picker](https://github.com/nofear195/nuxt-image-picker): Created a a tool (Vue.js component) for picking images and assigning them to different categories.
+- [nuxt-image-picker](https://github.com/nofear195/nuxt-image-picker): Created a a tool (Vue.js component) for picking images and assigning them to different categories.
 
 ## Get in Touch
 - Personal Website: [https://nofear195.github.io/my-hugo-blog/](https://nofear195.github.io/my-hugo-blog/)
