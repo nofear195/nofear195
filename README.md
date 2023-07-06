@@ -15,6 +15,7 @@ I'm nofear195, a software engineer with a background in full-stack web developme
 - **Build Tools**: Webpack, Babel, Vite
 - **Version Control**: Git, GitHub, GitLab
 - **Backend Frameworks**: Django, Django Restful Framework (DRF), Flask, .Net Framework, .Net Core
+- **Database: MySQL, MSSQL
 - **DevOps**: Docker, Docker Compose
 
 
