@@ -7,15 +7,9 @@ I'm nofear195, a software engineer with a background in full-stack web developme
 - 🎓 Graduated with a Master's degree in Computer Science, specializing in Machine learning and Deep learning.
 
 ## Skills
-- **Languages**: HTML/CSS3, JavaScript (ES6+), TypeScript, Python, C#
-- **Frontend Frameworks**: Vue 2, Vue 3
-- **CSS preprocessor**: SCSS
-- **CSS Frameworks**: Bootstrap, Tailwind CSS , Element UI (Vue 2), Element Plus (Vue 3)
-- **State Management**: Vuex, Pinia
-- **Build Tools**: Webpack, Babel, Vite
-- **Version Control**: Git, GitHub, GitLab
-- **Backend Frameworks**: Django, Django Restful Framework (DRF), Flask, .Net Framework, .Net Core
-- **Database**: MySQL, MSSQL
+- **Frontend Frameworks**: Vue 2, Vue 3, React
+- **Backend Frameworks**: Express, Django, Flask, .Net Framework, .Net Core
+- **Database**: MySQL, MSSQL, PostgreSQL, MongoDB
 - **DevOps**: Docker, Docker Compose
 
 
